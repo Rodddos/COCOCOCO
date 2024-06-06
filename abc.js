@@ -1,0 +1,1 @@
+<><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script><script src="https://photoswipe.com/dist/photoswipe.min.js?=4.1.1-1.0.4"></script><script src="https://photoswipe.com/dist/photoswipe-ui-default.min.js?v=4.1.1-1.0.4"></script></>

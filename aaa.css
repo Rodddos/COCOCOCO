@@ -1,0 +1,9 @@
+h1{
+    color:brown;
+    background-color:aqua;
+    font-family: sans-serif;
+} 
+table, tr, th, td{
+    border-collapse:collapse;
+    border: 5px solid black;
+}

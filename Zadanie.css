@@ -1,0 +1,17 @@
+h1{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+img{
+    position: relative;
+    left: 350px;
+    bottom: 150px;
+}
+div{
+    position: fixed;
+    top: 20px;
+    right: 10px;
+    border: dotted 1px;
+    padding: 5px;
+}
