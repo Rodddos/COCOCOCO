@@ -1,10 +1,10 @@
 img{
-
+ height: 33%;
+    width:33%;
     display: inline-flex;
 }
 div{
     display: inline-flex;
-    height: 33%;
-    width:33%;
+   
 }
 
